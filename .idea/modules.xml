@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyMeterial.iml" filepath="$PROJECT_DIR$/MyMeterial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding-Menu-drawer-With-material-design-master.iml" filepath="$PROJECT_DIR$/Sliding-Menu-drawer-With-material-design-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenusuper/slidingmenusuper.iml" filepath="$PROJECT_DIR$/slidingmenusuper/slidingmenusuper.iml" />
+    </modules>
+  </component>
+</project>

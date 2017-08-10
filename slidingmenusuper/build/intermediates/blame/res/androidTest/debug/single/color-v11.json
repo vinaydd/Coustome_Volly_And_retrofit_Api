@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/Sliding-Menu-drawer-With-material-design-master/slidingmenusuper/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/sharadsingh/Desktop/AndroidTestingProjects/Sliding-Menu-drawer-With-material-design-master/slidingmenusuper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/kmidev/Desktop/MaterialDesign/MyMeterial/slidingmenusuper/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/kmidev/Desktop/MaterialDesign/MyMeterial/slidingmenusuper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/kmidev/Desktop/MaterialDesign/MyMeterial/slidingmenusuper/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/kmidev/Desktop/MaterialDesign/MyMeterial/slidingmenusuper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/sharadsingh/Desktop/AndroidTestingProjects/Sliding-Menu-drawer-With-material-design-master/slidingmenusuper/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/sharadsingh/Desktop/AndroidTestingProjects/Sliding-Menu-drawer-With-material-design-master/slidingmenusuper/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_common_hight">30dp</dimen>
+    <dimen name="common_rel_hight">31dp</dimen>
+    <dimen name="common_image_hight_width">100dp</dimen>
+    <dimen name="login_btn_hight">35dp</dimen>
+    <dimen name="facebook_btn_hight">40dp</dimen>
+    <dimen name="edit_text_hint_size">12sp</dimen>
+    <dimen name="common_text_size">16sp</dimen>
+    <dimen name="profile_edit_aboutme_text_hight">100dp</dimen>
+    <dimen name="landing_spn_hight">35dp</dimen>
+    <dimen name="checkbox_textsize">13sp</dimen>
+</resources>
